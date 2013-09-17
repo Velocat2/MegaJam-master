@@ -1,0 +1,3 @@
+[submodule "MegaJam/lib/asyncSocket"]
+	path = MegaJam/lib/asyncSocket
+	url = git://github.com/robbiehanson/CocoaAsyncSocket.git
